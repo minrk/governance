@@ -89,6 +89,11 @@ In those cases, you may use the word "Jupyter", unaltered Jupyter logos, or imag
 of Jupyter applications to indicate this, without our prior approval.
 This is true both for non-commercial and commercial uses.
 
+Images or videos of Jupyter applications in use to demonstrate other software
+(e.g. tutorials, presentations, courses, etc. using Jupyter notebooks)
+are always allowed without our prior approval.
+This is true both for non-commercial and commercial uses.
+
 This clause overrides other clauses of this policy.
 However, if you have any doubts about your intended use of the trademarks,
 please contact the [Jupyter Trademarks Committee][].
@@ -193,7 +198,7 @@ The following rules apply to the use of trademarks in each of these classes.
   "Uses that Never Require Approval" above.
   Other uses in ads only with prior permission.
 - Use of the word "Jupyter" in email and informally -- Allowed without the TM symbol.
-- Use of the word "Jupyter" in academic papers, theses, and books -- 
+- Use of the word "Jupyter" in academic papers, theses, and books --
   Allowed without the TM symbol. Books should include the symbol.
 - Use of the word "Jupyter" in another trademark --
   Not allowed without prior written permission from Jupyter, except as described above.
@@ -211,7 +216,7 @@ The following rules apply to the use of trademarks in each of these classes.
   require permission from Project Jupyter.
   Please reproduce our logos with the right colors and fonts; if you need help, let us know.
   See the [brand guidelines][].
-- Use of unaltered Jupyter-provided logos on websites, brochures, and product packaging. 
+- Use of unaltered Jupyter-provided logos on websites, brochures, and product packaging.
   Non-commercial uses to promote the Jupyter software are allowed,
   as are all nominative uses as described in the section "Uses that Never Require Approval".
   Any other commercial uses require prior written permission from Project Jupyter.
